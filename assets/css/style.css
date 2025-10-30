@@ -13330,4 +13330,10 @@ h2.section_heading_title_big {
 	.room-2-title a{
 		color: #4b1a50;
 	}
+	section.cta-1-section {
+    position: relative;
+    background: #222;
+    padding: 50px 0;
+    overflow: hidden;
+}
 }
