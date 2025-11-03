@@ -12822,11 +12822,11 @@ ul.filter-tabs {
 }
 
 ul.filter-tabs li {
-    margin: 0 5px 10px;
+    margin: 0 5px -29px;
     cursor: pointer;
     color: #fff;
     background: #4b1a50;
-    padding: 11.5px 25px;
+    padding: 11.5px 11px;
     font-weight: 500;
     transition: .5s;
 }
